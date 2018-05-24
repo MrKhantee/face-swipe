@@ -1,7 +1,7 @@
 # face-swipe
-source
+## source
 ![image](http://github.com/lyzq/face-swipe/raw/master/image/baby.png)
-target
+## target
 ![image](http://github.com/lyzq/face-swipe/raw/master/image/baby4.png)
-merged
+## merged
 ![image](http://github.com/lyzq/face-swipe/raw/master/image/target.png)
